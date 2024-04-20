@@ -17,7 +17,7 @@ Sincerely,
 # List of sites
 Creating a wishlist for a nonprofit organization can be an effective way to communicate their needs and engage with potential donors. Here's a list of websites that offer wishlist functionalities specifically tailored for nonprofits:
 
-1. **[AmazonSmile Charity Lists](https://org.amazon.com/amazon.smile)**: Nonprofits can create lists of needed items on AmazonSmile, allowing supporters to purchase and donate directly through Amazon while the organization receives a portion of the purchase price as a donation.
+1. **[Amazon Lists](https://www.amazon.com/hz/wishlist/intro)**: Nonprofits can create lists of needed items, allowing supporters to purchase.
 
 2. **[DonorsChoose](https://www.donorschoose.org/)**: Primarily focused on education-related projects, DonorsChoose allows teachers and schools to create wishlists for classroom supplies and projects, with donors being able to contribute directly.
 
